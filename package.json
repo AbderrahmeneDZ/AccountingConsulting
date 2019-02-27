@@ -1,0 +1,23 @@
+{
+  "name": "accounting-consulting",
+  "version": "1.0.0",
+  "description": "showcase website for accounting consulting office ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "accounting",
+    "office",
+    "consulting",
+    "html5",
+    "css3",
+    "bootstrap4",
+    "javascript"
+  ],
+  "author": "Bouidia Abderrahmene",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}

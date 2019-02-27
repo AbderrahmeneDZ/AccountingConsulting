@@ -1,0 +1,16 @@
+.navbar-nav a {
+    text-decoration: underline;
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('assets/accounting.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background: rgba(192, 192, 192, 0.746);
+}
