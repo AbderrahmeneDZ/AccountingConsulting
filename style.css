@@ -1,16 +1,20 @@
-.masthead {
-    height: 100vh;
-    min-height: 500px;
-    background-image: url('assets/accounting.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+    html {
+        scroll-behavior: smooth;
+    }
 
-.jumbotron {
-    background: rgba(192, 192, 192, 0.746);
-}
+    .masthead {
+        height: 100vh;
+        min-height: 500px;
+        background-image: url('assets/accounting.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
 
-body * {
-    outline: none!important;
-}
+    .jumbotron {
+        background: rgba(192, 192, 192, 0.746);
+    }
+
+    body * {
+        outline: none!important;
+    }
