@@ -23,3 +23,16 @@
         width: 100%!important;
         height: 300px;
     }
+
+    .mapouter {
+        text-align: right;
+        height: 300px;
+        width: 100%;
+    }
+
+    .gmap_canvas {
+        overflow: hidden;
+        background: none !important;
+        height: 300px;
+        width: 100%;
+    }
